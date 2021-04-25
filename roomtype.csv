@@ -1,0 +1,170 @@
+neighbourhood,room_type,count
+Bang Bon,Entire home/apt,4
+Bang Bon,Private room,3
+Bang Kapi,Entire home/apt,178
+Bang Kapi,Hotel room,3
+Bang Kapi,Private room,144
+Bang Kapi,Shared room,7
+Bang Khae,Entire home/apt,45
+Bang Khae,Private room,58
+Bang Khen,Entire home/apt,60
+Bang Khen,Hotel room,4
+Bang Khen,Private room,82
+Bang Khen,Shared room,2
+Bang Kho laen,Entire home/apt,97
+Bang Kho laen,Hotel room,3
+Bang Kho laen,Private room,52
+Bang Kho laen,Shared room,2
+Bang Khun thain,Entire home/apt,10
+Bang Khun thain,Private room,15
+Bang Khun thain,Shared room,3
+Bang Na,Entire home/apt,348
+Bang Na,Hotel room,12
+Bang Na,Private room,212
+Bang Na,Shared room,3
+Bang Phlat,Entire home/apt,136
+Bang Phlat,Hotel room,3
+Bang Phlat,Private room,108
+Bang Phlat,Shared room,8
+Bang Rak,Entire home/apt,416
+Bang Rak,Hotel room,90
+Bang Rak,Private room,497
+Bang Rak,Shared room,76
+Bang Sue,Entire home/apt,175
+Bang Sue,Private room,107
+Bang Sue,Shared room,3
+Bangkok Noi,Entire home/apt,44
+Bangkok Noi,Hotel room,15
+Bangkok Noi,Private room,113
+Bangkok Noi,Shared room,5
+Bangkok Yai,Entire home/apt,34
+Bangkok Yai,Hotel room,6
+Bangkok Yai,Private room,57
+Bangkok Yai,Shared room,5
+Bueng Kum,Entire home/apt,35
+Bueng Kum,Private room,29
+Bueng Kum,Shared room,1
+Chatu Chak,Entire home/apt,346
+Chatu Chak,Hotel room,3
+Chatu Chak,Private room,268
+Chatu Chak,Shared room,15
+Chom Thong,Entire home/apt,52
+Chom Thong,Private room,39
+Chom Thong,Shared room,2
+Din Daeng,Entire home/apt,298
+Din Daeng,Hotel room,18
+Din Daeng,Private room,227
+Din Daeng,Shared room,33
+Don Mueang,Entire home/apt,43
+Don Mueang,Hotel room,17
+Don Mueang,Private room,139
+Don Mueang,Shared room,11
+Dusit,Entire home/apt,29
+Dusit,Private room,80
+Dusit,Shared room,8
+Huai Khwang,Entire home/apt,1044
+Huai Khwang,Hotel room,37
+Huai Khwang,Private room,391
+Huai Khwang,Shared room,28
+Khan Na Yao,Entire home/apt,29
+Khan Na Yao,Private room,40
+Khlong Sam Wa,Entire home/apt,23
+Khlong Sam Wa,Private room,20
+Khlong San,Entire home/apt,249
+Khlong San,Hotel room,36
+Khlong San,Private room,194
+Khlong San,Shared room,15
+Khlong Toei,Entire home/apt,1659
+Khlong Toei,Hotel room,149
+Khlong Toei,Private room,535
+Khlong Toei,Shared room,33
+Lak Si,Entire home/apt,55
+Lak Si,Hotel room,11
+Lak Si,Private room,83
+Lat Krabang,Entire home/apt,118
+Lat Krabang,Hotel room,16
+Lat Krabang,Private room,118
+Lat Krabang,Shared room,8
+Lat Phrao,Entire home/apt,28
+Lat Phrao,Private room,46
+Lat Phrao,Shared room,2
+Min Buri,Entire home/apt,33
+Min Buri,Hotel room,1
+Min Buri,Private room,35
+Min Buri,Shared room,1
+Nong Chok,Entire home/apt,13
+Nong Chok,Private room,6
+Nong Khaem,Entire home/apt,7
+Nong Khaem,Private room,11
+Parthum Wan,Entire home/apt,333
+Parthum Wan,Hotel room,60
+Parthum Wan,Private room,161
+Parthum Wan,Shared room,19
+Phasi Charoen,Entire home/apt,108
+Phasi Charoen,Hotel room,1
+Phasi Charoen,Private room,69
+Phasi Charoen,Shared room,1
+Phaya Thai,Entire home/apt,247
+Phaya Thai,Hotel room,45
+Phaya Thai,Private room,213
+Phaya Thai,Shared room,31
+Phra Khanong,Entire home/apt,423
+Phra Khanong,Hotel room,8
+Phra Khanong,Private room,249
+Phra Khanong,Shared room,16
+Phra Nakhon,Entire home/apt,88
+Phra Nakhon,Hotel room,117
+Phra Nakhon,Private room,455
+Phra Nakhon,Shared room,142
+Pom Prap Sattru Phai,Entire home/apt,41
+Pom Prap Sattru Phai,Hotel room,15
+Pom Prap Sattru Phai,Private room,77
+Pom Prap Sattru Phai,Shared room,22
+Pra Wet,Entire home/apt,91
+Pra Wet,Hotel room,5
+Pra Wet,Private room,88
+Pra Wet,Shared room,3
+Rat Burana,Entire home/apt,30
+Rat Burana,Private room,25
+Ratchathewi,Entire home/apt,819
+Ratchathewi,Hotel room,103
+Ratchathewi,Private room,374
+Ratchathewi,Shared room,75
+Sai Mai,Entire home/apt,22
+Sai Mai,Private room,30
+Samphanthawong,Entire home/apt,46
+Samphanthawong,Hotel room,14
+Samphanthawong,Private room,63
+Samphanthawong,Shared room,21
+Saphan Sung,Entire home/apt,18
+Saphan Sung,Private room,31
+Sathon,Entire home/apt,535
+Sathon,Hotel room,54
+Sathon,Private room,266
+Sathon,Shared room,25
+Suanluang,Entire home/apt,253
+Suanluang,Hotel room,6
+Suanluang,Private room,190
+Suanluang,Shared room,14
+Taling Chan,Entire home/apt,18
+Taling Chan,Private room,26
+Taling Chan,Shared room,2
+Thawi Watthana,Entire home/apt,11
+Thawi Watthana,Private room,7
+Thon buri,Entire home/apt,143
+Thon buri,Hotel room,4
+Thon buri,Private room,109
+Thon buri,Shared room,5
+Thung khru,Entire home/apt,14
+Thung khru,Private room,17
+Vadhana,Entire home/apt,1550
+Vadhana,Hotel room,155
+Vadhana,Private room,681
+Vadhana,Shared room,69
+Wang Thong Lang,Entire home/apt,87
+Wang Thong Lang,Private room,74
+Wang Thong Lang,Shared room,5
+Yan na wa,Entire home/apt,138
+Yan na wa,Hotel room,9
+Yan na wa,Private room,79
+Yan na wa,Shared room,4
